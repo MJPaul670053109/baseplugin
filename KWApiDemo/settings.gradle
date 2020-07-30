@@ -1,0 +1,11 @@
+apply plugin: 'setting-api'
+
+settingConfig {
+    settingLibraryPath "/Users/mj/Documents/kwapilib/"
+    baseLibName "kwcommon-lib"
+}
+settings.ext.includeWithApi([':kwaccount', ':kwlogin'])
+
+
+include ':app'
+include ':buildSrc'

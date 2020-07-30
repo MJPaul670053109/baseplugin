@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KWApiDemo.iml" filepath="$PROJECT_DIR$/KWApiDemo.iml" group="KWApiDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-480952172/KWApiDemo-kwcommon-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/-480952172/KWApiDemo-kwcommon-lib.iml" group="KWApiDemo/kwcommon-lib" />
+      <module fileurl="file://$PROJECT_DIR$/plugin-common/KWApiDemo-plugin-common.iml" filepath="$PROJECT_DIR$/plugin-common/KWApiDemo-plugin-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="KWApiDemo/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/buildSrc.iml" group="KWApiDemo/buildSrc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-850253092/kwaccount.iml" filepath="$PROJECT_DIR$/.idea/modules/-850253092/kwaccount.iml" group="KWApiDemo/kwaccount" />
+      <module fileurl="file://$PROJECT_DIR$/../kwapilib/kwcommon-lib/kwcommon-lib.iml" filepath="$PROJECT_DIR$/../kwapilib/kwcommon-lib/kwcommon-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-723324968/kwlogin.iml" filepath="$PROJECT_DIR$/.idea/modules/-723324968/kwlogin.iml" group="KWApiDemo/kwlogin" />
+      <module fileurl="file://$PROJECT_DIR$/plugin-common/plugin-common.iml" filepath="$PROJECT_DIR$/plugin-common/plugin-common.iml" />
+    </modules>
+  </component>
+</project>

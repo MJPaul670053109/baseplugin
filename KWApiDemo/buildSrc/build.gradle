@@ -1,0 +1,22 @@
+repositories {
+    google()
+    jcenter()
+}
+
+apply from: file('common.gradle')
+apply plugin: 'maven'
+
+allDependencies.each {
+    dependencies.add('implementation', it)
+}
+
+uploadArchives {
+    repositories {
+        mavenDeployer {
+            repository(url: uri('/Users/mj/Documents/plugin'))
+            pom.groupId = 'com.base.plugin'  //groupId ，自行定义，一般是包名
+            pom.artifactId = 'remote' //artifactId ，自行定义
+            pom.version = '2.0.0' //version 版本号
+        }
+    }
+}

@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml
+		INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml
+		ADDED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml:1:1-5:12
+		INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml
+		ADDED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml:1:1-5:12
+		INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml:4:5-20
+uses-sdk
+INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml
+INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml
+INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml
+INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml
+		ADDED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml
+		INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml
+		ADDED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml
+		INJECTED from /Users/mj/Documents/kwapilib/kwcommon-lib/src/main/AndroidManifest.xml
